@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0015-3sum](https://github.com/himanshuparghi13/LEETCODE/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/himanshuparghi13/LEETCODE/tree/master/0018-4sum) |
+| [0056-merge-intervals](https://github.com/himanshuparghi13/LEETCODE/tree/master/0056-merge-intervals) |
 | [0118-pascals-triangle](https://github.com/himanshuparghi13/LEETCODE/tree/master/0118-pascals-triangle) |
 | [0169-majority-element](https://github.com/himanshuparghi13/LEETCODE/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/himanshuparghi13/LEETCODE/tree/master/0229-majority-element-ii) |
@@ -51,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0015-3sum](https://github.com/himanshuparghi13/LEETCODE/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/himanshuparghi13/LEETCODE/tree/master/0018-4sum) |
+| [0056-merge-intervals](https://github.com/himanshuparghi13/LEETCODE/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/himanshuparghi13/LEETCODE/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/himanshuparghi13/LEETCODE/tree/master/0229-majority-element-ii) |
 ## Counting
