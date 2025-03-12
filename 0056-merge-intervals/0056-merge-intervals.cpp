@@ -1,19 +1,19 @@
 class Solution {
 public:
-    vector<vector<int>> merge(vector<vector<int>>& it) {
-        sort(it.begin(),it.end());
-
-        vector<vector<int>>v;
-        v.emplace_back(it[0]);
-
-        for(int i=1; i < it.size() ; i++ ){
-            if(v.back()[1] >= it[i][0]){
-                v.back()[1] = max(v.back()[1],it[i][1]);
+    vector<vector<int>> merge(vector<vector<int>>& arr) {
+        sort(arr.begin(),arr.end());
+        int j = 0;
+        for(int i=1; i < arr.size() ; i++ ){
+            if(arr[j][1] >= arr[i][0]){
+                arr[j][1] = max(arr[j][1],arr[i][1]);
             }
             else{
-                v.emplace_back(it[i]);
+                j++;
+                arr[j][0] = arr[i][0];
+                arr[j][1] = arr[i][1];
             }
         }
-        return v;
+        arr.resize(j+1);
+        return arr;
     }
 };
