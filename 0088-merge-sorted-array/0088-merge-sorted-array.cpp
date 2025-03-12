@@ -1,21 +1,35 @@
 class Solution {
 public:
-    void merge(vector<int>& a, int m, vector<int>& b, int n) {
-        if(m == 0) {a= b;return;}
-        else if( n ==0) return;
-        int left = m-1;
-        int right = 0;
-        
-        while (left>=0 && right < n && a[left] > b[right] ) {
-            swap(a[left], b[right]);
-            left--;
-            right++;
+    void merge(vector<int>& nums1, int m, vector<int>& nums2, int n) {
+        vector<int>v(m+n);
+        int left =0;
+        int right =0;
+        int index =0;
+
+        while(left<m&& right <n){
+            if(nums1[left] <=nums2[right]){
+                v[index] = nums1[left];
+                left++;
+                index++;
+            }
+            else{
+                v[index] = nums2[right];
+                right++;
+                index++;
+            }
         }
-        int j=0;
-        for(int i = m;i<a.size();i++){
-            a[i] = b[j];
-            j++;
+
+        while(left < m){
+            v[index] = nums1[left];
+                left++;
+                index++;
         }
-        sort(a.begin(),a.end());
+
+        while(right < n){
+             v[index] = nums2[right];
+                right++;
+                index++;
+        }
+        nums1 =v;
     }
 };
