@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0056-merge-intervals](https://github.com/himanshuparghi13/LEETCODE/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/himanshuparghi13/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/himanshuparghi13/LEETCODE/tree/master/0118-pascals-triangle) |
+| [0152-maximum-product-subarray](https://github.com/himanshuparghi13/LEETCODE/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/himanshuparghi13/LEETCODE/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/himanshuparghi13/LEETCODE/tree/master/0229-majority-element-ii) |
 | [1046-max-consecutive-ones-iii](https://github.com/himanshuparghi13/LEETCODE/tree/master/1046-max-consecutive-ones-iii) |
@@ -36,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/himanshuparghi13/LEETCODE/tree/master/0118-pascals-triangle) |
+| [0152-maximum-product-subarray](https://github.com/himanshuparghi13/LEETCODE/tree/master/0152-maximum-product-subarray) |
 ## Hash Table
 |  |
 | ------- |
