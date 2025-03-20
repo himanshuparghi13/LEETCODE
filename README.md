@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0205-isomorphic-strings](https://github.com/himanshuparghi13/LEETCODE/tree/master/0205-isomorphic-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/himanshuparghi13/LEETCODE/tree/master/0424-longest-repeating-character-replacement) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/himanshuparghi13/LEETCODE/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [2032-largest-odd-number-in-string](https://github.com/himanshuparghi13/LEETCODE/tree/master/2032-largest-odd-number-in-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/himanshuparghi13/LEETCODE/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Sliding Window
 |  |
@@ -88,4 +89,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1046-max-consecutive-ones-iii](https://github.com/himanshuparghi13/LEETCODE/tree/master/1046-max-consecutive-ones-iii) |
+## Math
+|  |
+| ------- |
+| [2032-largest-odd-number-in-string](https://github.com/himanshuparghi13/LEETCODE/tree/master/2032-largest-odd-number-in-string) |
+## Greedy
+|  |
+| ------- |
+| [2032-largest-odd-number-in-string](https://github.com/himanshuparghi13/LEETCODE/tree/master/2032-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
