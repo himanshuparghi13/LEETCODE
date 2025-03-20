@@ -5,8 +5,8 @@ public:
         string st="";
         for(int i=num.size()-1;i>=0;i--){
             if(int(num[i]) %2 != 0) {c = i+1; break;}
+            num.pop_back();
         }
-         st.insert(st.begin(), num.begin(), num.begin() +c);
-        return st;
+        return num;
     }
 };
