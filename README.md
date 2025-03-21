@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/himanshuparghi13/LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/himanshuparghi13/LEETCODE/tree/master/0013-roman-to-integer) |
 | [0151-reverse-words-in-a-string](https://github.com/himanshuparghi13/LEETCODE/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/himanshuparghi13/LEETCODE/tree/master/0205-isomorphic-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/himanshuparghi13/LEETCODE/tree/master/0424-longest-repeating-character-replacement) |
@@ -49,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/himanshuparghi13/LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/himanshuparghi13/LEETCODE/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/himanshuparghi13/LEETCODE/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/himanshuparghi13/LEETCODE/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/himanshuparghi13/LEETCODE/tree/master/0229-majority-element-ii) |
@@ -94,6 +96,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/himanshuparghi13/LEETCODE/tree/master/0013-roman-to-integer) |
 | [2032-largest-odd-number-in-string](https://github.com/himanshuparghi13/LEETCODE/tree/master/2032-largest-odd-number-in-string) |
 ## Greedy
 |  |
