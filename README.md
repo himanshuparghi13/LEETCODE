@@ -40,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/himanshuparghi13/LEETCODE/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/himanshuparghi13/LEETCODE/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2690-house-robber-iv](https://github.com/himanshuparghi13/LEETCODE/tree/master/2690-house-robber-iv) |
+| [3430-count-days-without-meetings](https://github.com/himanshuparghi13/LEETCODE/tree/master/3430-count-days-without-meetings) |
 | [3483-alternating-groups-ii](https://github.com/himanshuparghi13/LEETCODE/tree/master/3483-alternating-groups-ii) |
 ## Dynamic Programming
 |  |
@@ -69,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/himanshuparghi13/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/himanshuparghi13/LEETCODE/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/himanshuparghi13/LEETCODE/tree/master/0229-majority-element-ii) |
+| [3430-count-days-without-meetings](https://github.com/himanshuparghi13/LEETCODE/tree/master/3430-count-days-without-meetings) |
 ## Counting
 |  |
 | ------- |
