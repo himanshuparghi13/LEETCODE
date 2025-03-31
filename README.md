@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0151-reverse-words-in-a-string](https://github.com/himanshuparghi13/LEETCODE/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/himanshuparghi13/LEETCODE/tree/master/0205-isomorphic-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/himanshuparghi13/LEETCODE/tree/master/0424-longest-repeating-character-replacement) |
+| [0768-partition-labels](https://github.com/himanshuparghi13/LEETCODE/tree/master/0768-partition-labels) |
 | [0812-rotate-string](https://github.com/himanshuparghi13/LEETCODE/tree/master/0812-rotate-string) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/himanshuparghi13/LEETCODE/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/himanshuparghi13/LEETCODE/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -57,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0205-isomorphic-strings](https://github.com/himanshuparghi13/LEETCODE/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/himanshuparghi13/LEETCODE/tree/master/0229-majority-element-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/himanshuparghi13/LEETCODE/tree/master/0424-longest-repeating-character-replacement) |
+| [0768-partition-labels](https://github.com/himanshuparghi13/LEETCODE/tree/master/0768-partition-labels) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/himanshuparghi13/LEETCODE/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/himanshuparghi13/LEETCODE/tree/master/2888-minimum-index-of-a-valid-split) |
 ## Divide and Conquer
@@ -87,6 +89,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0018-4sum](https://github.com/himanshuparghi13/LEETCODE/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/himanshuparghi13/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/himanshuparghi13/LEETCODE/tree/master/0151-reverse-words-in-a-string) |
+| [0768-partition-labels](https://github.com/himanshuparghi13/LEETCODE/tree/master/0768-partition-labels) |
 ## Binary Search
 |  |
 | ------- |
@@ -106,6 +109,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 |  |
 | ------- |
+| [0768-partition-labels](https://github.com/himanshuparghi13/LEETCODE/tree/master/0768-partition-labels) |
 | [2032-largest-odd-number-in-string](https://github.com/himanshuparghi13/LEETCODE/tree/master/2032-largest-odd-number-in-string) |
 ## String Matching
 |  |
