@@ -107,6 +107,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0013-roman-to-integer](https://github.com/himanshuparghi13/LEETCODE/tree/master/0013-roman-to-integer) |
 | [2032-largest-odd-number-in-string](https://github.com/himanshuparghi13/LEETCODE/tree/master/2032-largest-odd-number-in-string) |
+| [2998-count-symmetric-integers](https://github.com/himanshuparghi13/LEETCODE/tree/master/2998-count-symmetric-integers) |
 ## Greedy
 |  |
 | ------- |
@@ -124,4 +125,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0908-middle-of-the-linked-list](https://github.com/himanshuparghi13/LEETCODE/tree/master/0908-middle-of-the-linked-list) |
+## Enumeration
+|  |
+| ------- |
+| [2998-count-symmetric-integers](https://github.com/himanshuparghi13/LEETCODE/tree/master/2998-count-symmetric-integers) |
 <!---LeetCode Topics End-->
