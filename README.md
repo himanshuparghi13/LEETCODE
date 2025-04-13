@@ -42,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/himanshuparghi13/LEETCODE/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2690-house-robber-iv](https://github.com/himanshuparghi13/LEETCODE/tree/master/2690-house-robber-iv) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/himanshuparghi13/LEETCODE/tree/master/2888-minimum-index-of-a-valid-split) |
+| [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/himanshuparghi13/LEETCODE/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3430-count-days-without-meetings](https://github.com/himanshuparghi13/LEETCODE/tree/master/3430-count-days-without-meetings) |
 | [3483-alternating-groups-ii](https://github.com/himanshuparghi13/LEETCODE/tree/master/3483-alternating-groups-ii) |
 ## Dynamic Programming
