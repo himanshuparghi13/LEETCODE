@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/himanshuparghi13/LEETCODE/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/himanshuparghi13/LEETCODE/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/himanshuparghi13/LEETCODE/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/himanshuparghi13/LEETCODE/tree/master/0056-merge-intervals) |
@@ -56,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/himanshuparghi13/LEETCODE/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/himanshuparghi13/LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/himanshuparghi13/LEETCODE/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/himanshuparghi13/LEETCODE/tree/master/0169-majority-element) |
