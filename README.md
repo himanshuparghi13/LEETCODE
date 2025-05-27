@@ -143,6 +143,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/himanshuparghi13/LEETCODE/tree/master/0144-binary-tree-preorder-traversal) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/himanshuparghi13/LEETCODE/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Linked List
 |  |
@@ -168,4 +169,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/himanshuparghi13/LEETCODE/tree/master/0347-top-k-frequent-elements) |
+## Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/himanshuparghi13/LEETCODE/tree/master/0144-binary-tree-preorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/himanshuparghi13/LEETCODE/tree/master/0144-binary-tree-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/himanshuparghi13/LEETCODE/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
