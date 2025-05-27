@@ -33,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/himanshuparghi13/LEETCODE/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/himanshuparghi13/LEETCODE/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/himanshuparghi13/LEETCODE/tree/master/0018-4sum) |
+| [0036-valid-sudoku](https://github.com/himanshuparghi13/LEETCODE/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/himanshuparghi13/LEETCODE/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/himanshuparghi13/LEETCODE/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/himanshuparghi13/LEETCODE/tree/master/0088-merge-sorted-array) |
@@ -64,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/himanshuparghi13/LEETCODE/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/himanshuparghi13/LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/himanshuparghi13/LEETCODE/tree/master/0013-roman-to-integer) |
+| [0036-valid-sudoku](https://github.com/himanshuparghi13/LEETCODE/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/himanshuparghi13/LEETCODE/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/himanshuparghi13/LEETCODE/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/himanshuparghi13/LEETCODE/tree/master/0205-isomorphic-strings) |
@@ -195,4 +197,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/himanshuparghi13/LEETCODE/tree/master/0102-binary-tree-level-order-traversal) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/himanshuparghi13/LEETCODE/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
