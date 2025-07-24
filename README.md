@@ -213,4 +213,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/himanshuparghi13/LEETCODE/tree/master/0128-longest-consecutive-sequence) |
+## Database
+|  |
+| ------- |
+| [0584-find-customer-referee](https://github.com/himanshuparghi13/LEETCODE/tree/master/0584-find-customer-referee) |
 <!---LeetCode Topics End-->
