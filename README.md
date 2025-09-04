@@ -142,6 +142,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2998-count-symmetric-integers](https://github.com/himanshuparghi13/LEETCODE/tree/master/2998-count-symmetric-integers) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/himanshuparghi13/LEETCODE/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3321-type-of-triangle](https://github.com/himanshuparghi13/LEETCODE/tree/master/3321-type-of-triangle) |
+| [3830-find-closest-person](https://github.com/himanshuparghi13/LEETCODE/tree/master/3830-find-closest-person) |
 ## Greedy
 |  |
 | ------- |
