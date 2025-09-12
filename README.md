@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/himanshuparghi13/LEETCODE/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2032-largest-odd-number-in-string](https://github.com/himanshuparghi13/LEETCODE/tree/master/2032-largest-odd-number-in-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/himanshuparghi13/LEETCODE/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [2887-sort-vowels-in-a-string](https://github.com/himanshuparghi13/LEETCODE/tree/master/2887-sort-vowels-in-a-string) |
 | [3462-vowels-game-in-a-string](https://github.com/himanshuparghi13/LEETCODE/tree/master/3462-vowels-game-in-a-string) |
 ## Sliding Window
 |  |
@@ -101,6 +102,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/himanshuparghi13/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/himanshuparghi13/LEETCODE/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/himanshuparghi13/LEETCODE/tree/master/0347-top-k-frequent-elements) |
+| [2887-sort-vowels-in-a-string](https://github.com/himanshuparghi13/LEETCODE/tree/master/2887-sort-vowels-in-a-string) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/himanshuparghi13/LEETCODE/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3321-type-of-triangle](https://github.com/himanshuparghi13/LEETCODE/tree/master/3321-type-of-triangle) |
 | [3430-count-days-without-meetings](https://github.com/himanshuparghi13/LEETCODE/tree/master/3430-count-days-without-meetings) |
