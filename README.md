@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/himanshuparghi13/LEETCODE/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2887-sort-vowels-in-a-string](https://github.com/himanshuparghi13/LEETCODE/tree/master/2887-sort-vowels-in-a-string) |
 | [3462-vowels-game-in-a-string](https://github.com/himanshuparghi13/LEETCODE/tree/master/3462-vowels-game-in-a-string) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/himanshuparghi13/LEETCODE/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Sliding Window
 |  |
 | ------- |
@@ -85,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0768-partition-labels](https://github.com/himanshuparghi13/LEETCODE/tree/master/0768-partition-labels) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/himanshuparghi13/LEETCODE/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/himanshuparghi13/LEETCODE/tree/master/2888-minimum-index-of-a-valid-split) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/himanshuparghi13/LEETCODE/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -113,6 +115,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0229-majority-element-ii](https://github.com/himanshuparghi13/LEETCODE/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/himanshuparghi13/LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/himanshuparghi13/LEETCODE/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/himanshuparghi13/LEETCODE/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Two Pointers
 |  |
 | ------- |
