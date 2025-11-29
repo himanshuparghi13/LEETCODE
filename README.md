@@ -63,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3321-type-of-triangle](https://github.com/himanshuparghi13/LEETCODE/tree/master/3321-type-of-triangle) |
 | [3430-count-days-without-meetings](https://github.com/himanshuparghi13/LEETCODE/tree/master/3430-count-days-without-meetings) |
 | [3483-alternating-groups-ii](https://github.com/himanshuparghi13/LEETCODE/tree/master/3483-alternating-groups-ii) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/himanshuparghi13/LEETCODE/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/himanshuparghi13/LEETCODE/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Dynamic Programming
 |  |
@@ -153,6 +154,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/himanshuparghi13/LEETCODE/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3321-type-of-triangle](https://github.com/himanshuparghi13/LEETCODE/tree/master/3321-type-of-triangle) |
 | [3462-vowels-game-in-a-string](https://github.com/himanshuparghi13/LEETCODE/tree/master/3462-vowels-game-in-a-string) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/himanshuparghi13/LEETCODE/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3830-find-closest-person](https://github.com/himanshuparghi13/LEETCODE/tree/master/3830-find-closest-person) |
 ## Greedy
 |  |
