@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/himanshuparghi13/LEETCODE/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2032-largest-odd-number-in-string](https://github.com/himanshuparghi13/LEETCODE/tree/master/2032-largest-odd-number-in-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/himanshuparghi13/LEETCODE/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [2575-find-the-divisibility-array-of-a-string](https://github.com/himanshuparghi13/LEETCODE/tree/master/2575-find-the-divisibility-array-of-a-string) |
 | [2887-sort-vowels-in-a-string](https://github.com/himanshuparghi13/LEETCODE/tree/master/2887-sort-vowels-in-a-string) |
 | [3462-vowels-game-in-a-string](https://github.com/himanshuparghi13/LEETCODE/tree/master/3462-vowels-game-in-a-string) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/himanshuparghi13/LEETCODE/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -54,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1046-max-consecutive-ones-iii](https://github.com/himanshuparghi13/LEETCODE/tree/master/1046-max-consecutive-ones-iii) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/himanshuparghi13/LEETCODE/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/himanshuparghi13/LEETCODE/tree/master/2316-count-hills-and-valleys-in-an-array) |
+| [2575-find-the-divisibility-array-of-a-string](https://github.com/himanshuparghi13/LEETCODE/tree/master/2575-find-the-divisibility-array-of-a-string) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/himanshuparghi13/LEETCODE/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2690-house-robber-iv](https://github.com/himanshuparghi13/LEETCODE/tree/master/2690-house-robber-iv) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/himanshuparghi13/LEETCODE/tree/master/2888-minimum-index-of-a-valid-split) |
@@ -150,6 +152,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/himanshuparghi13/LEETCODE/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2032-largest-odd-number-in-string](https://github.com/himanshuparghi13/LEETCODE/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/himanshuparghi13/LEETCODE/tree/master/2050-count-good-numbers) |
+| [2575-find-the-divisibility-array-of-a-string](https://github.com/himanshuparghi13/LEETCODE/tree/master/2575-find-the-divisibility-array-of-a-string) |
 | [2998-count-symmetric-integers](https://github.com/himanshuparghi13/LEETCODE/tree/master/2998-count-symmetric-integers) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/himanshuparghi13/LEETCODE/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3321-type-of-triangle](https://github.com/himanshuparghi13/LEETCODE/tree/master/3321-type-of-triangle) |
