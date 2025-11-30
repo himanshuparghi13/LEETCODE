@@ -54,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/himanshuparghi13/LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [1046-max-consecutive-ones-iii](https://github.com/himanshuparghi13/LEETCODE/tree/master/1046-max-consecutive-ones-iii) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/himanshuparghi13/LEETCODE/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1590-make-sum-divisible-by-p](https://github.com/himanshuparghi13/LEETCODE/tree/master/1590-make-sum-divisible-by-p) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/himanshuparghi13/LEETCODE/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2575-find-the-divisibility-array-of-a-string](https://github.com/himanshuparghi13/LEETCODE/tree/master/2575-find-the-divisibility-array-of-a-string) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/himanshuparghi13/LEETCODE/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -90,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0451-sort-characters-by-frequency](https://github.com/himanshuparghi13/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
 | [0768-partition-labels](https://github.com/himanshuparghi13/LEETCODE/tree/master/0768-partition-labels) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/himanshuparghi13/LEETCODE/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1590-make-sum-divisible-by-p](https://github.com/himanshuparghi13/LEETCODE/tree/master/1590-make-sum-divisible-by-p) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/himanshuparghi13/LEETCODE/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/himanshuparghi13/LEETCODE/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Divide and Conquer
@@ -145,6 +147,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/himanshuparghi13/LEETCODE/tree/master/0238-product-of-array-except-self) |
 | [1046-max-consecutive-ones-iii](https://github.com/himanshuparghi13/LEETCODE/tree/master/1046-max-consecutive-ones-iii) |
+| [1590-make-sum-divisible-by-p](https://github.com/himanshuparghi13/LEETCODE/tree/master/1590-make-sum-divisible-by-p) |
 ## Math
 |  |
 | ------- |
