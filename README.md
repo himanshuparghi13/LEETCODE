@@ -55,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1046-max-consecutive-ones-iii](https://github.com/himanshuparghi13/LEETCODE/tree/master/1046-max-consecutive-ones-iii) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/himanshuparghi13/LEETCODE/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1590-make-sum-divisible-by-p](https://github.com/himanshuparghi13/LEETCODE/tree/master/1590-make-sum-divisible-by-p) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/himanshuparghi13/LEETCODE/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/himanshuparghi13/LEETCODE/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/himanshuparghi13/LEETCODE/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2575-find-the-divisibility-array-of-a-string](https://github.com/himanshuparghi13/LEETCODE/tree/master/2575-find-the-divisibility-array-of-a-string) |
@@ -113,6 +114,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0229-majority-element-ii](https://github.com/himanshuparghi13/LEETCODE/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/himanshuparghi13/LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/himanshuparghi13/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/himanshuparghi13/LEETCODE/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/himanshuparghi13/LEETCODE/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2887-sort-vowels-in-a-string](https://github.com/himanshuparghi13/LEETCODE/tree/master/2887-sort-vowels-in-a-string) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/himanshuparghi13/LEETCODE/tree/master/2888-minimum-index-of-a-valid-split) |
@@ -142,6 +144,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1046-max-consecutive-ones-iii](https://github.com/himanshuparghi13/LEETCODE/tree/master/1046-max-consecutive-ones-iii) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/himanshuparghi13/LEETCODE/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/himanshuparghi13/LEETCODE/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/himanshuparghi13/LEETCODE/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2690-house-robber-iv](https://github.com/himanshuparghi13/LEETCODE/tree/master/2690-house-robber-iv) |
 ## Prefix Sum
@@ -169,6 +172,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0768-partition-labels](https://github.com/himanshuparghi13/LEETCODE/tree/master/0768-partition-labels) |
 | [2032-largest-odd-number-in-string](https://github.com/himanshuparghi13/LEETCODE/tree/master/2032-largest-odd-number-in-string) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/himanshuparghi13/LEETCODE/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/himanshuparghi13/LEETCODE/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 ## String Matching
 |  |
