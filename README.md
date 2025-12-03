@@ -56,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/himanshuparghi13/LEETCODE/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1590-make-sum-divisible-by-p](https://github.com/himanshuparghi13/LEETCODE/tree/master/1590-make-sum-divisible-by-p) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/himanshuparghi13/LEETCODE/tree/master/2141-maximum-running-time-of-n-computers) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/himanshuparghi13/LEETCODE/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/himanshuparghi13/LEETCODE/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/himanshuparghi13/LEETCODE/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2575-find-the-divisibility-array-of-a-string](https://github.com/himanshuparghi13/LEETCODE/tree/master/2575-find-the-divisibility-array-of-a-string) |
@@ -94,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0768-partition-labels](https://github.com/himanshuparghi13/LEETCODE/tree/master/0768-partition-labels) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/himanshuparghi13/LEETCODE/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1590-make-sum-divisible-by-p](https://github.com/himanshuparghi13/LEETCODE/tree/master/1590-make-sum-divisible-by-p) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/himanshuparghi13/LEETCODE/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/himanshuparghi13/LEETCODE/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/himanshuparghi13/LEETCODE/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Divide and Conquer
@@ -115,6 +117,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/himanshuparghi13/LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/himanshuparghi13/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/himanshuparghi13/LEETCODE/tree/master/2141-maximum-running-time-of-n-computers) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/himanshuparghi13/LEETCODE/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/himanshuparghi13/LEETCODE/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2887-sort-vowels-in-a-string](https://github.com/himanshuparghi13/LEETCODE/tree/master/2887-sort-vowels-in-a-string) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/himanshuparghi13/LEETCODE/tree/master/2888-minimum-index-of-a-valid-split) |
@@ -276,4 +279,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/himanshuparghi13/LEETCODE/tree/master/0225-implement-stack-using-queues) |
+## Simulation
+|  |
+| ------- |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/himanshuparghi13/LEETCODE/tree/master/2154-keep-multiplying-found-values-by-two) |
 <!---LeetCode Topics End-->
