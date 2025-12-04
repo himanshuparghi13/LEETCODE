@@ -66,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/himanshuparghi13/LEETCODE/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/himanshuparghi13/LEETCODE/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/himanshuparghi13/LEETCODE/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/himanshuparghi13/LEETCODE/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3321-type-of-triangle](https://github.com/himanshuparghi13/LEETCODE/tree/master/3321-type-of-triangle) |
 | [3430-count-days-without-meetings](https://github.com/himanshuparghi13/LEETCODE/tree/master/3430-count-days-without-meetings) |
 | [3483-alternating-groups-ii](https://github.com/himanshuparghi13/LEETCODE/tree/master/3483-alternating-groups-ii) |
@@ -97,6 +98,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1590-make-sum-divisible-by-p](https://github.com/himanshuparghi13/LEETCODE/tree/master/1590-make-sum-divisible-by-p) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/himanshuparghi13/LEETCODE/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/himanshuparghi13/LEETCODE/tree/master/2888-minimum-index-of-a-valid-split) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/himanshuparghi13/LEETCODE/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/himanshuparghi13/LEETCODE/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Divide and Conquer
 |  |
@@ -166,6 +168,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2575-find-the-divisibility-array-of-a-string](https://github.com/himanshuparghi13/LEETCODE/tree/master/2575-find-the-divisibility-array-of-a-string) |
 | [2998-count-symmetric-integers](https://github.com/himanshuparghi13/LEETCODE/tree/master/2998-count-symmetric-integers) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/himanshuparghi13/LEETCODE/tree/master/3172-divisible-and-non-divisible-sums-difference) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/himanshuparghi13/LEETCODE/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3321-type-of-triangle](https://github.com/himanshuparghi13/LEETCODE/tree/master/3321-type-of-triangle) |
 | [3462-vowels-game-in-a-string](https://github.com/himanshuparghi13/LEETCODE/tree/master/3462-vowels-game-in-a-string) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/himanshuparghi13/LEETCODE/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
