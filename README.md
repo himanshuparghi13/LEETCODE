@@ -55,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1046-max-consecutive-ones-iii](https://github.com/himanshuparghi13/LEETCODE/tree/master/1046-max-consecutive-ones-iii) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/himanshuparghi13/LEETCODE/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1590-make-sum-divisible-by-p](https://github.com/himanshuparghi13/LEETCODE/tree/master/1590-make-sum-divisible-by-p) |
+| [1975-maximum-matrix-sum](https://github.com/himanshuparghi13/LEETCODE/tree/master/1975-maximum-matrix-sum) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/himanshuparghi13/LEETCODE/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/himanshuparghi13/LEETCODE/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/himanshuparghi13/LEETCODE/tree/master/2316-count-hills-and-valleys-in-an-array) |
@@ -177,6 +178,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0768-partition-labels](https://github.com/himanshuparghi13/LEETCODE/tree/master/0768-partition-labels) |
+| [1975-maximum-matrix-sum](https://github.com/himanshuparghi13/LEETCODE/tree/master/1975-maximum-matrix-sum) |
 | [2032-largest-odd-number-in-string](https://github.com/himanshuparghi13/LEETCODE/tree/master/2032-largest-odd-number-in-string) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/himanshuparghi13/LEETCODE/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/himanshuparghi13/LEETCODE/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
@@ -248,6 +250,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/himanshuparghi13/LEETCODE/tree/master/0036-valid-sudoku) |
+| [1975-maximum-matrix-sum](https://github.com/himanshuparghi13/LEETCODE/tree/master/1975-maximum-matrix-sum) |
 ## Union Find
 |  |
 | ------- |
