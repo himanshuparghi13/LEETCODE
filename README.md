@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/himanshuparghi13/LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/himanshuparghi13/LEETCODE/tree/master/0013-roman-to-integer) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/himanshuparghi13/LEETCODE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/himanshuparghi13/LEETCODE/tree/master/0049-group-anagrams) |
 | [0151-reverse-words-in-a-string](https://github.com/himanshuparghi13/LEETCODE/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/himanshuparghi13/LEETCODE/tree/master/0205-isomorphic-strings) |
@@ -142,6 +143,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/himanshuparghi13/LEETCODE/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/himanshuparghi13/LEETCODE/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/himanshuparghi13/LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/himanshuparghi13/LEETCODE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/himanshuparghi13/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/himanshuparghi13/LEETCODE/tree/master/0151-reverse-words-in-a-string) |
 | [0768-partition-labels](https://github.com/himanshuparghi13/LEETCODE/tree/master/0768-partition-labels) |
@@ -187,6 +189,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/himanshuparghi13/LEETCODE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0812-rotate-string](https://github.com/himanshuparghi13/LEETCODE/tree/master/0812-rotate-string) |
 ## Stack
 |  |
